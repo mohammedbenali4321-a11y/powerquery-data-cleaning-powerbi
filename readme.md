@@ -1,4 +1,4 @@
-# 📊 TP1 Power Query (Power BI) - Nettoyage et Préparation des Données
+#  TP1 Power Query (Power BI) - Nettoyage et Préparation des Données
 
 Ce projet s'inscrit dans le cadre de la préparation et de l'intégration de données de ventes hétérogènes pour l'entreprise **TechMaroc SARL**, distributeur de matériel informatique présent dans 6 villes du Maroc. 
 
@@ -26,7 +26,7 @@ L'objectif principal est de consolider, nettoyer et fiabiliser des données brut
 
 ---
 
-## 📑 Structure du Projet
+##  Structure du Projet
 
 ```text
 .
@@ -41,7 +41,7 @@ L'objectif principal est de consolider, nettoyer et fiabiliser des données brut
 
 ---
 
-## 🔄 Étapes de Nettoyage & Transformation
+##  Étapes de Nettoyage & Transformation
 
 1. **Structure & En-têtes :** Suppression des lignes de titre ERP et promotion des vrais en-têtes. Filtrage dynamique pour exclure les lignes de totalisation (`TOTAL`).
 2. **Propagation des données (`Vendeur`) :** Application du remplissage vers le bas (*Fill Down*) sur les blocs de transactions.
@@ -67,7 +67,7 @@ L'objectif principal est de consolider, nettoyer et fiabiliser des données brut
 
 ---
 
-## 👤 Auteur & Liens Professionnels
+##  Auteur & Liens Professionnels
 
 **Mohamed BEN ALI**  
 *Data Analyst / Business Intelligence Specialist*
